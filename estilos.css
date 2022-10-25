@@ -1,0 +1,32 @@
+*{
+    background-image: url(./img/fondo.jpg);
+    color: #e7f84e;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Fredericka the Great', cursive;
+  }
+.indice{
+    border: 3px solid #aaa;
+    display: table;
+    font-size: 120%;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: auto;
+}
+.indice.indtitulo{
+font-weight: 700;
+text-align: center;
+}
+.indlista{
+    padding: 0 5px;
+}
+#divinline-block{
+    display: inline-block;
+}
+#fotoperfil{
+border-radius: 45%;
+border-style: double;
+
+}
